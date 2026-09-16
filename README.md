@@ -1,2 +1,2 @@
 # Evolution-simulator
-- Coded by Java used AI tools
+- Coded by C++ used AI tools
